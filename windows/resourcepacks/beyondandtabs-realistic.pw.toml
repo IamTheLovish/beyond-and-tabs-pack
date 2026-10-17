@@ -1,0 +1,8 @@
+name = "Beyond and Tabs - Realistic"
+filename = "BeyondAndTabs-Realistic.zip"
+side = "client"
+
+[download]
+url = "https://github.com/christiansaab-hue/beyond-and-tabs-pack/releases/download/files/BeyondAndTabs-Realistic-2026.10.17-0849-c204889.zip"
+hash-format = "sha512"
+hash = "21ff1f5f2de08be751d2692d8badd7faa63c4bec3a43d3d94d856290738ccd3a5ed4eec73e68efe786be8bcfccd5c8a5e7d5933ae4777ac0480de82c0cd3df7f"
