@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.17-0849-c204889`
+Current version: `2026.10.18-0753-564cca2`
 
-What changed: First auto-updating pack: Paladin spawn fix, new unit bodies, realistic materials, metal over the whole map.
+What changed: Merge pull request #8 from christiansaab-hue/ci/chunk-wait-progress
