@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.19-0712-0c929bd`
+Current version: `2026.10.19-0713-225184c`
 
-What changed: Merge pull request #15 from IamTheLovish/claude/mp-spawn-fix
+What changed: Merge pull request #5 from IamTheLovish/match/ready-and-markers
