@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.20-1927-eb1ca54`
+Current version: `2026.10.20-2345-9b93502`
 
-What changed: Eyes attack close-ups fight dummies; two GameTests stop losing units off their pads
+What changed: Merge pull request #19 from IamTheLovish/claude/camera-pan-response
