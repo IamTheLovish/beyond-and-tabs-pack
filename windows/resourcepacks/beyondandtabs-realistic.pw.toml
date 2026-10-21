@@ -3,6 +3,6 @@ filename = "BeyondAndTabs-Realistic.zip"
 side = "client"
 
 [download]
-url = "https://github.com/christiansaab-hue/beyond-and-tabs-pack/releases/download/files/BeyondAndTabs-Realistic-2026.10.21-0944-59eb976.zip"
+url = "https://github.com/christiansaab-hue/beyond-and-tabs-pack/releases/download/files/BeyondAndTabs-Realistic-2026.10.21-0951-7ce498e.zip"
 hash-format = "sha512"
-hash = "536507e8156418cea612fdcc5275120c73966f968d2fbe4fc7ec72d262d99a5fbabb435bdfda6f37186f2801ec4b455a535b5b5273d7816c3ef2808cf30c8acc"
+hash = "82346d6d409ea74ffa037868164513134418533d34b2b4ff308fcacbdf538f662de7a3983c32523fc77ef530c6988d90860a23ad337699ccbe25490a8369fd7c"
