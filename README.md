@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0928-7c89025`
+Current version: `2026.10.21-0933-9f0cfa1`
 
-What changed: Merge pull request #1 from IamTheLovish/installer-and-site
+What changed: Merge pull request #33 from IamTheLovish/claude/angel-statue
