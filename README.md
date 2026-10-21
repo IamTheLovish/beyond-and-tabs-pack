@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-1957-d80b08d`
+Current version: `2026.10.21-2112-69f6aff`
 
-What changed: Tester pack adds Packet Fixer, Sound Culling, Particle Core, Falling Leaves
+What changed: Merge pull request #84 from IamTheLovish/claude/animation-perf-proof
