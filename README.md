@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0607-b6cd98d`
+Current version: `2026.10.21-0616-bf4c88b`
 
-What changed: No advancements, no accessibility screen, full screen on first launch (#51)
+What changed: A bot build stall says why: the place queue, its first block and loaded state (#54)
