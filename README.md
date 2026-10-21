@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0232-428dd6b`
+Current version: `2026.10.21-0237-54c8667`
 
-What changed: Eyes: photograph any structure in the real game (input structure) (#29)
+What changed: Merge pull request #32 from IamTheLovish/claude/realistic-pack-calm-materials
