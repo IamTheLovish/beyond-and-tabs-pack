@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0126-51c2293`
+Current version: `2026.10.21-0203-dd4ba1d`
 
-What changed: Merge pull request #27 from IamTheLovish/claude/more-metal-everywhere
+What changed: design/LANES.md: lanes for parallel Claude sessions + the Oct 20 decisions (#30)
