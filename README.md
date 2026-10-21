@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0203-dd4ba1d`
+Current version: `2026.10.21-0219-37dbec1`
 
-What changed: design/LANES.md: lanes for parallel Claude sessions + the Oct 20 decisions (#30)
+What changed: Possession feels like Minecraft: sprint, air control, no RTS steering (#31)
