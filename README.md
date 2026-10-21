@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0540-dd53cd4`
+Current version: `2026.10.21-0601-0686d15`
 
-What changed: Attack-move fights like BAR's Fight: units before buildings, a leash on chases (#49)
+What changed: CI guards: no default orders on camera keys, no new tests in the shared test file (#52)
