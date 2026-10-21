@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyondandtabs.pw.toml"
-hash = "66ad80b8ee9285e4841cbee042034ca698f4dfb40adaf3731898c4553fea44a1"
+hash = "2adc1b72344bf9753ff7525d031b79c302fc9e428d6358e473bc73855e4a139b"
 metafile = true
 
 [[files]]
@@ -51,8 +51,23 @@ hash = "c93534e53dc3d11fb427aca90669dc734ef1bb50f7c9dd7af57418e6e0a30e76"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves-1-20-1-2-1-2.pw.toml"
+hash = "6896f04c4161c6f79b94606755bf4921e57ae942b94cd146909d8e0c2570f824"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-6-0-1-forge.pw.toml"
 hash = "6bdf7b6d9e5432ab505d906980d637f1bd5874ff4d0b5aa269090333c5519c90"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config-0-7-7-1-20-1-forge.pw.toml"
+hash = "d6f2793889fe2115fdd70d088f75377654c7a136da0127848532e087bfb6b5e7"
+metafile = true
+
+[[files]]
+file = "mods/kotlinforforge-4-12-0-all.pw.toml"
+hash = "c0d3749e4947cd10b9ecf3f3a4b0fa845ab61eca1443bad08da6c9829f342827"
 metafile = true
 
 [[files]]
@@ -96,6 +111,16 @@ hash = "0d03c3d31f4e349c24f245810c5373921ae5b2a3802c17fb24df16aae8f19cd7"
 metafile = true
 
 [[files]]
+file = "mods/packetfixer-3-3-2-1-18-1-20-4-merged.pw.toml"
+hash = "53c0d0f4922fa2bee0c40dfd4e2be2659028a617e7b6504559dd0786762190eb"
+metafile = true
+
+[[files]]
+file = "mods/particle-core-0-3-3-1-20-1-forge.pw.toml"
+hash = "6ff7cd12f07521f4f90c6d0f05c7e689fefe7a726abaa77a1d0f88268708b7a8"
+metafile = true
+
+[[files]]
 file = "mods/resourcefullib-forge-1-20-1-2-1-29.pw.toml"
 hash = "d53715010435f3938a55dcd4908a7e7af337a5df53075673b59ac68e29162231"
 metafile = true
@@ -103,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered-forge-1-20-1-1-5-1.pw.toml"
 hash = "7e40144b4439c147f76a84ea0c9f7ceec8a6e9ea38ae45b498e7a2fe4d519f2e"
+metafile = true
+
+[[files]]
+file = "mods/soundculling-2-1-0.pw.toml"
+hash = "97e9c32d6f34a1efdc82ce989a6302f9828a3dd29ff81f49b8d117b3b9503a96"
 metafile = true
 
 [[files]]
@@ -122,5 +152,5 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/beyondandtabs-realistic.pw.toml"
-hash = "b87d2938c593f4dd5f563268178fc5aa65c596852aa0d48b6c0ab463a1076730"
+hash = "af32be631a061e31a8be4cf1aad554614034c33fc3edddd18cdba4d538331d2b"
 metafile = true
