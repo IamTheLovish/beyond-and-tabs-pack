@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-2118-68e4cbc`
+Current version: `2026.10.21-2120-92d2bc1`
 
-What changed: Merge pull request #85 from IamTheLovish/claude/realistic-pack-r22
+What changed: Merge pull request #88 from IamTheLovish/claude/map-trees
