@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0706-e6a38db`
+Current version: `2026.10.21-0707-c607782`
 
-What changed: No friendly fire on buildings: own and allied hits are dropped (#56)
+What changed: BAR wind: wind generators earn with a wandering wind (4-24, average 14) (#63)
