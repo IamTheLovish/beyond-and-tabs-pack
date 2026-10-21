@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-2121-11c5757`
+Current version: `2026.10.21-2123-571e18c`
 
-What changed: Merge pull request #96 from IamTheLovish/joisco/c1-gui-scale-cap
+What changed: Merge pull request #83 from IamTheLovish/claude/halberdier-guard
