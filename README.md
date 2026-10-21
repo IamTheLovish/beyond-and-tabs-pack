@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0453-0807663`
+Current version: `2026.10.21-0453-6ba20ab`
 
-What changed: Shift+Alt grid placement: Alt no longer drops the ghost while Shift is held (#41)
+What changed: Esc closes the match menu in LAN and server matches (#42)
