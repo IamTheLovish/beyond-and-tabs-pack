@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-1003-49c3f1d`
+Current version: `2026.10.21-1017-3414573`
 
-What changed: Merge pull request #6 from IamTheLovish/heavy/mesh-bodies-1
+What changed: Merge pull request #38 from IamTheLovish/joisco/playtest-feedback-oct20
