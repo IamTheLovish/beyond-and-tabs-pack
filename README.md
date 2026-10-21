@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0649-115265f`
+Current version: `2026.10.21-0652-79472c7`
 
-What changed: Tester pack adds Spark, Macaw's Bridges / Paths / Lights and Sound Physics (#58)
+What changed: Sapper charge test measures the charge, not the Sapper's idle punch (#60)
