@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyondandtabs.pw.toml"
-hash = "2b24b79ec7787b1835a419a3477fa2ed0f44ba9869775e02adfc14a609c37452"
+hash = "efb663a170411fed44dbcae05f5b90d9ad801c4fedac31fed37fcde704db9834"
 metafile = true
 
 [[files]]
@@ -56,8 +56,23 @@ hash = "6bdf7b6d9e5432ab505d906980d637f1bd5874ff4d0b5aa269090333c5519c90"
 metafile = true
 
 [[files]]
+file = "mods/mcw-bridges-3-1-2-mc1-20-1forge.pw.toml"
+hash = "8233e9520ae9c892f50f50cecc3131bec08bdeb37c79c1ea0547b6cab0adf43a"
+metafile = true
+
+[[files]]
+file = "mods/mcw-lights-1-1-5-mc1-20-1forge.pw.toml"
+hash = "b4bb7bb2df2c44a335508827c87786d5aa858e852c2a588d921b2d36a225521a"
+metafile = true
+
+[[files]]
 file = "mods/mcw-mcwfences-1-2-1-mc1-20-1forge.pw.toml"
 hash = "48567edc786e3d5fa8e512391b9eb9453080958393edc590568ef4251c091534"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwpaths-1-1-1-mc1-20-1forge.pw.toml"
+hash = "0224e34309d99aeed944ffbe7a7477c1e0aea7b7a7b6b31397249fe0475fbb20"
 metafile = true
 
 [[files]]
@@ -86,6 +101,16 @@ hash = "d53715010435f3938a55dcd4908a7e7af337a5df53075673b59ac68e29162231"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered-forge-1-20-1-1-5-1.pw.toml"
+hash = "7e40144b4439c147f76a84ea0c9f7ceec8a6e9ea38ae45b498e7a2fe4d519f2e"
+metafile = true
+
+[[files]]
+file = "mods/spark-1-10-53-forge.pw.toml"
+hash = "5b5aeaf4f67ab8427f9fdd25ffa17060578c54a0fe3fb05674efb8027137a70b"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-1-20-3-1-43-forge.pw.toml"
 hash = "fec027a2182e8e438eb700eb28b9ea9b379b728094812e4b906bb2c43f53cffa"
 metafile = true
@@ -97,5 +122,5 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/beyondandtabs-realistic.pw.toml"
-hash = "1d59c3813ac939516b7ec8e81ebb79ca4d702d717b60b866fad3dd286bc5f8fa"
+hash = "dd09608d656faa648598fe2ae7ebd97995af0408693db6aac66dfc31d445d0d8"
 metafile = true
