@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0743-66ed7f1`
+Current version: `2026.10.21-0744-dd1c7cb`
 
-What changed: Merge pull request #65 from IamTheLovish/claude/lanes-weakness-rule
+What changed: Merge pull request #70 from IamTheLovish/claude/anti-air-defences
