@@ -1,8 +1,8 @@
 name = "Beyond and Tabs"
-filename = "beyondandtabs-2026.10.21-0046-5a547a7.jar"
+filename = "beyondandtabs-2026.10.21-0124-f6792b1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/christiansaab-hue/beyond-and-tabs-pack/releases/download/files/beyondandtabs-2026.10.21-0046-5a547a7.jar"
+url = "https://github.com/christiansaab-hue/beyond-and-tabs-pack/releases/download/files/beyondandtabs-2026.10.21-0124-f6792b1.jar"
 hash-format = "sha512"
-hash = "03b4b133405ad71cfd8e2f152f2e0a184b3d1ffc76ec18ed35386fb328e6ad3a2af7bb3b1795fa05aaf87e5a326be4ff249b49f10dfe8194aad9d161ec786fde"
+hash = "595d2312bfdc20ea0409752d5e0a5f2d0047e80d3eecd48ba4dbe29ce4c4cef828c938da6991a98dd7f4767d00142713bc6daef381c62b490e3146bc75665b81"
