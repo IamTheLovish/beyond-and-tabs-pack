@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0741-0c29872`
+Current version: `2026.10.21-0743-66ed7f1`
 
-What changed: GameTest: a Shift+move after an attack waits for the kill (Lane C #12) (#59)
+What changed: Merge pull request #65 from IamTheLovish/claude/lanes-weakness-rule
