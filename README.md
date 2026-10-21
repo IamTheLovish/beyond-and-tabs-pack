@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.21-0509-8fb2e46`
+Current version: `2026.10.21-0540-dd53cd4`
 
-What changed: Builders no longer stall one block short of finishing (#44)
+What changed: Attack-move fights like BAR's Fight: units before buildings, a leash on chases (#49)
