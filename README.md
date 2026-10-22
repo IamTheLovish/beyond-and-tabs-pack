@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.22-1926-a02c385`
+Current version: `2026.10.22-2206-c7004e9`
 
-What changed: Merge pull request #159 from IamTheLovish/claude/unit-render-lod
+What changed: Merge pull request #163 from IamTheLovish/claude/battlefield-floor-48
