@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.22-0334-6d36ba2`
+Current version: `2026.10.22-0345-df03a8d`
 
-What changed: Merge pull request #126 from IamTheLovish/claude/esc-deselect
+What changed: Merge pull request #116 from IamTheLovish/claude/dragon-rig
