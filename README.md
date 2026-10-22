@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.22-0748-a9dbb88`
+Current version: `2026.10.22-0758-7eebdb7`
 
-What changed: Merge pull request #154 from IamTheLovish/claude/fix-worldgen-cme
+What changed: Merge pull request #144 from IamTheLovish/claude/ci-fewer-jobs
