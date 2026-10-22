@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.22-0413-df03a8d`
+Current version: `2026.10.22-0628-8b99335`
 
-What changed: Shaders: Oculus + Complementary Reimagined (K toggles them, O opens the menu)
+What changed: Merge pull request #123 from IamTheLovish/claude/lobby-backdrop
