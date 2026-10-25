@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.24-0741-07db24f`
+Current version: `2026.10.25-2014-9383a7d`
 
-What changed: Merge pull request #143 from IamTheLovish/claude/blueprints
+What changed: Merge pull request #225 from IamTheLovish/joisco/c1-prequeue-while-building
