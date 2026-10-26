@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.26-1949-23df346`
+Current version: `2026.10.26-2040-e7c3692`
 
-What changed: Merge pull request #241 from IamTheLovish/joisco/c1-partial-destroy
+What changed: Merge pull request #245 from IamTheLovish/joisco/c1-launcher-update-verify
