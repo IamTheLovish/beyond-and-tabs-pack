@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.27-2117-5c59ef2`
+Current version: `2026.10.27-2156-8ad2619`
 
-What changed: Merge pull request #288 from IamTheLovish/claude/flake-idle-reclaim
+What changed: Merge pull request #285 from IamTheLovish/claude/fix-resource-cost-npe
