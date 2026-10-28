@@ -1,0 +1,8 @@
+name = "soundculling-2.1.0.jar"
+filename = "soundculling-2.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sFgqI5oP/versions/19HjVPCu/soundculling-2.1.0.jar"
+hash-format = "sha512"
+hash = "bbd49e5582b85efb5ce9e820f3fda8cffb364dae3cae9a5d85d95a90d3a7009fc16f0a05c991cc28547477c61490e8540ee9ee44319d4200fd9f3eaa18e3098b"
