@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.28-1239-d0af215`
+Current version: `2026.10.28-1543-51707b7`
 
-What changed: Rooted Treant: Take Root mode on the Sentinel Treant (vehicle prototype 1) (#305)
+What changed: tools: shape_kit - curved shapes (domes, spires, tapers, swept roofs) voxelized with stair/slab edges (#324)
