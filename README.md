@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.28-1727-6506782`
+Current version: `2026.10.28-1941-e2cac2f`
 
-What changed: Lovish's Wager Book: write a request, he agrees, refuses or twists it (prototype) (#321)
+What changed: Bone Dragon r13: model fine-tuning + flight animations rewritten (lovish: "animation was bad") (#145)
