@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.28-1941-e2cac2f`
+Current version: `2026.10.28-2246-3bd6c3c`
 
-What changed: Bone Dragon r13: model fine-tuning + flight animations rewritten (lovish: "animation was bad") (#145)
+What changed: Living army: breath phase advances per tick, so exertion changes never strobe the chest (#303)
