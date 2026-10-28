@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.27-2310-01b9011`
+Current version: `2026.10.28-0015-7a5b9ac`
 
-What changed: Merge pull request #290 from IamTheLovish/claude/fix-rescost-retry
+What changed: Merge pull request #196 from IamTheLovish/claude/installer-copy-paste
