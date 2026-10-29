@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.29-1520-23bad45`
+Current version: `2026.10.29-2158-9502402`
 
-What changed: T1 siege lobber for every faction (BAR Rocko) - draft, needs lovish's OK (#355)
+What changed: Stormcallers essence caster: Spark Sage (Static Step, Captured Spark, Thunderhead) (#370)
