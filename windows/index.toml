@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyondandtabs.pw.toml"
-hash = "a28b29801a1ae42583fbe733d057b2bb68826c89b30338b414d34138550b7c28"
+hash = "35e469b376138cdca7c7d7ce85e82eeeeeb9b88e32684929fb5751c4f804c1b6"
 metafile = true
 
 [[files]]
@@ -38,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config-11-1-136-forge.pw.toml"
 hash = "bd0cc6f75cc7931fd035ea2292041400493457237ebb0cf0d380db5ca967a34c"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks-forge-1-20-1-4-1-3.pw.toml"
+hash = "2eb9682488ab77344bae0998e119b46361c8d896bc2ca9650e2c2972dfcb96e7"
 metafile = true
 
 [[files]]
@@ -91,6 +96,11 @@ hash = "8233e9520ae9c892f50f50cecc3131bec08bdeb37c79c1ea0547b6cab0adf43a"
 metafile = true
 
 [[files]]
+file = "mods/mcw-doors-1-1-5-mc1-20-1forge.pw.toml"
+hash = "ce8a61fbfb3b8613ae9125dd5a102cef93b40b0dd1f4e6d8d5a29c9cb1efdcb4"
+metafile = true
+
+[[files]]
 file = "mods/mcw-lights-1-1-5-mc1-20-1forge.pw.toml"
 hash = "b4bb7bb2df2c44a335508827c87786d5aa858e852c2a588d921b2d36a225521a"
 metafile = true
@@ -103,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/mcw-mcwpaths-1-1-1-mc1-20-1forge.pw.toml"
 hash = "0224e34309d99aeed944ffbe7a7477c1e0aea7b7a7b6b31397249fe0475fbb20"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwstairs-1-0-2-mc1-20-1forge.pw.toml"
+hash = "07cbd22241254c1d66e668db96c242b432dfc0ad79aeb340c0ece97a55da2507"
 metafile = true
 
 [[files]]
@@ -172,7 +187,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/beyondandtabs-realistic.pw.toml"
-hash = "d12be30f6b13d1c7744a88cc86f1659ed890567e60ac6ec9d4e4654a33417009"
+hash = "abe66b04750d979a88aa166a047b39604bbf5c5b15149cebc9271896a189faae"
 metafile = true
 
 [[files]]
