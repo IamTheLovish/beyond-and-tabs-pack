@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.29-0022-1cbffcf`
+Current version: `2026.10.29-0554-d2fb33f`
 
-What changed: Bot start workers never spawn in lava (the soak's '3 Seedshapers, got 2'); T2 bot test diagnostics (#317)
+What changed: Possession: a standing possessed unit reads on-ground (travel's move probes down instead of not moving) (#308)
