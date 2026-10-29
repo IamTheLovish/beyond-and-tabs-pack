@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.28-2246-3bd6c3c`
+Current version: `2026.10.29-0022-1cbffcf`
 
-What changed: Living army: breath phase advances per tick, so exertion changes never strobe the chest (#303)
+What changed: Bot start workers never spawn in lava (the soak's '3 Seedshapers, got 2'); T2 bot test diagnostics (#317)
