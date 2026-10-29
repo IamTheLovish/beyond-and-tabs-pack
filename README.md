@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.29-0554-d2fb33f`
+Current version: `2026.10.29-0702-362a719`
 
-What changed: Possession: a standing possessed unit reads on-ground (travel's move probes down instead of not moving) (#308)
+What changed: Units knock buildings down 2x faster (BuildingDamage.GLOBAL_MULT; building HP unchanged) (#351)
