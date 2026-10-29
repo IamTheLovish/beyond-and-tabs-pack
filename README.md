@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.29-1252-c8f0c97`
+Current version: `2026.10.29-1339-eed2af0`
 
-What changed: Pack: remove Complementary Reimagined and Oculus from everything shipped to players (#384)
+What changed: Raid flake: building hits take a building's own water last (Verdant extractor pool spill) (#376)
