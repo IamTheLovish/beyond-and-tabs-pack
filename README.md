@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.29-0702-362a719`
+Current version: `2026.10.29-1220-f3adb7e`
 
-What changed: Units knock buildings down 2x faster (BuildingDamage.GLOBAL_MULT; building HP unchanged) (#351)
+What changed: Block pack: CC0 photo-scan stone, dirt, grass and basalt (shared-border variants) (#179)
