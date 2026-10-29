@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/oculus.properties"
-hash = "252358b42f61a469e0c145afe20e728d46190c739d059b6e81e64a8b18dfd538"
-preserve = true
-
-[[files]]
 file = "mods/alexsmobs-1-22-9.pw.toml"
 hash = "d377877cc1ece8bc24fb485ca42d38e6768954e29505bb503795d24d2bff1c47"
 metafile = true
@@ -22,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyondandtabs.pw.toml"
-hash = "2909c285fdc3a4c925e3b99ceca8a5029f181bdc0697cf5ce7ae92a52e7cd01a"
+hash = "1e4572fa4184f2242c9cd7e92bb5d3d595c5821ec744d1f0f6192c3cd82c7475"
 metafile = true
 
 [[files]]
@@ -141,11 +136,6 @@ hash = "0d03c3d31f4e349c24f245810c5373921ae5b2a3802c17fb24df16aae8f19cd7"
 metafile = true
 
 [[files]]
-file = "mods/oculus-mc1-20-1-1-8-0.pw.toml"
-hash = "aa01e640ab4debd51bcc71404f1b1258552f7693a59b1a514ce07be7e67847bc"
-metafile = true
-
-[[files]]
 file = "mods/packetfixer-3-3-2-1-18-1-20-4-merged.pw.toml"
 hash = "53c0d0f4922fa2bee0c40dfd4e2be2659028a617e7b6504559dd0786762190eb"
 metafile = true
@@ -187,15 +177,5 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/beyondandtabs-realistic.pw.toml"
-hash = "4f7de2b9e3a338ee9c7f8d33618b3bcfb4e16f72671a93b4098c0867c5a71413"
-metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
-hash = "35b020703d553f8c1fff59154717f3244000a3e29ec263a16961710a853e4a2c"
-preserve = true
-
-[[files]]
-file = "shaderpacks/complementaryreimagined-r5-9-3.pw.toml"
-hash = "dcfd8b0070f909830f41a9ad9e841fd06abcebc36f5b34dcdba620494a3d3f86"
+hash = "638f75881d68aa5faf0e3cccf8fe73625cd949cd209052f4426762695aec02d7"
 metafile = true
