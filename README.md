@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.30-0256-08ef223`
+Current version: `2026.10.30-0718-a28ef64`
 
-What changed: Spark Sage test: a kited Sage autocasts once its danger step ends (#392)
+What changed: Casters tier 1: Soul Engineer at the Machine Shop, Spark Sage at the Lotus Academy - draft, needs lovish's OK (#397)

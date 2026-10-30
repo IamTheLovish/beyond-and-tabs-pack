@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyondandtabs.pw.toml"
-hash = "f7720406acc98d3d60e663eacaa1a2e1fa6939a0946948d1bb0d1347250518ce"
+hash = "10a78b3314fd0bbfc39e7654bc99862cf34831131a05ec98f021ca37e1da7a99"
 metafile = true
 
 [[files]]
@@ -38,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks-forge-1-20-1-4-1-3.pw.toml"
 hash = "2eb9682488ab77344bae0998e119b46361c8d896bc2ca9650e2c2972dfcb96e7"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum-1-20-1-1-0-304-snapshot-universal.pw.toml"
+hash = "1eb89126cd7fbcd80dfa3e3a33bd70579c2a46c9629da1cb259e5aa796c6da80"
 metafile = true
 
 [[files]]
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-6-0-1-forge.pw.toml"
 hash = "6bdf7b6d9e5432ab505d906980d637f1bd5874ff4d0b5aa269090333c5519c90"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks-9-4-3.pw.toml"
+hash = "00c2668b0564d4226c349cfacd72ce90d7b2dc37ba241715216ed2b5e040fee4"
 metafile = true
 
 [[files]]
@@ -177,5 +187,5 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/beyondandtabs-realistic.pw.toml"
-hash = "d4c56c9c9b993bf085dcaff00290c25824cc8da092d9d7daceeb152ac29683a0"
+hash = "01f21b1f720a1795dc54a9b91c0ac457856bd23db87c3897413f9d98752f06bd"
 metafile = true
