@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.30-0103-dbe6407`
+Current version: `2026.10.30-0256-08ef223`
 
-What changed: Own shader pack, slice 1: shadows fitted to the RTS view, Enchanted grade, haze, sky (clean-room) (#386)
+What changed: Spark Sage test: a kited Sage autocasts once its danger step ends (#392)
