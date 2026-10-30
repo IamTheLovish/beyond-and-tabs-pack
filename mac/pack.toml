@@ -1,12 +1,12 @@
 name = "Beyond and Tabs (test)"
 author = "Beyond and Tabs"
-version = "2026.10.30-1530-79b059d"
+version = "2026.10.30-1918-e7b4e94"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ecee0da608ca3cddff0aa3db80f6e13ec130fe326ba6ec4989d60ecf76c27b59"
+hash = "168801834646b9cc14846a705713a8327617dac81d5bb43767d70ae7fc77e417"
 
 [versions]
 minecraft = "1.20.1"
