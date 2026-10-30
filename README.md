@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.30-0842-4528552`
+Current version: `2026.10.30-1407-7bab3af`
 
-What changed: Grass tint noise: low-frequency per-position variation of the grass and leaf colour (tests first) (#178)
+What changed: Water palette: lift the water colour to make up for the darker sand bed (#404) (#436)
