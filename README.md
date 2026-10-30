@@ -3,4 +3,4 @@
 Built minutes after each merge to main: the jar compiled and its unit tests passed, the in-game tests did not
 run yet. The tested pack is on branch main. The launcher's Version menu picks between the two.
 
-Current version: `2026.10.30-0800-4827c45` (main commit 4827c45eae01d45b83b1b82af6ea06843952e19c)
+Current version: `2026.10.30-0821-b02ec33` (main commit b02ec334a76fe9ddadd8f70288ef3523763dd153)
