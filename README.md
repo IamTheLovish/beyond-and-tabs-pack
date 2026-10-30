@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.29-2344-53f772b`
+Current version: `2026.10.30-0103-dbe6407`
 
-What changed: Death finishes per faction: Sunforged pulverize into light, Gravebound crumble, AI-slot derez (data-driven) (#382)
+What changed: Own shader pack, slice 1: shadows fitted to the RTS view, Enchanted grade, haze, sky (clean-room) (#386)
