@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.31-0611-28e3417`
+Current version: `2026.10.31-0656-b56f500`
 
-What changed: Sounds count real ticks: the Sfx budget was 3 unit sounds a second, not a tick (#449)
+What changed: One client clock: animations, gates and client timers stop running on the time of day (#450)
