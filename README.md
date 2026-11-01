@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.10.31-0656-b56f500`
+Current version: `2026.11.01-0346-e23b916`
 
-What changed: One client clock: animations, gates and client timers stop running on the time of day (#450)
+What changed: Engine Shed tests: re-set threshold ROOF_BAND 0.28-0.36 -> 0.34-0.42 (both ends, same width) (#474)
