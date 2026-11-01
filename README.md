@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.01-0346-e23b916`
+Current version: `2026.11.01-0516-21932bb`
 
-What changed: Engine Shed tests: re-set threshold ROOF_BAND 0.28-0.36 -> 0.34-0.42 (both ends, same width) (#474)
+What changed: Sunforged vehicle lab (Sunwain Court) r1: ref21 massing, camera tests, detail rounds (draft, stacked on #411) (#456)
