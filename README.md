@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.01-0516-21932bb`
+Current version: `2026.11.01-0602-f61abb3`
 
-What changed: Sunforged vehicle lab (Sunwain Court) r1: ref21 massing, camera tests, detail rounds (draft, stacked on #411) (#456)
+What changed: Essence casters priced as tier 1: 115 metal / 120 energy - draft, needs lovish's OK (#427)
