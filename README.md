@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.01-0602-f61abb3`
+Current version: `2026.11.03-0812-6779c3a`
 
-What changed: Essence casters priced as tier 1: 115 metal / 120 energy - draft, needs lovish's OK (#427)
+What changed: Jade Pagoda (Stormcallers capitol): three roofs two rings apart, storeys seen from the RTS camera, a gold crown (draft) (#477)
