@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.03-0812-6779c3a`
+Current version: `2026.11.03-0952-9d68b2c`
 
-What changed: Jade Pagoda (Stormcallers capitol): three roofs two rings apart, storeys seen from the RTS camera, a gold crown (draft) (#477)
+What changed: Lotus Academy (Stormcallers T1 lab): blind massing, camera tests, detail rounds (#479)
