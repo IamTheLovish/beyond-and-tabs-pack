@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.03-1217-cf56755`
+Current version: `2026.11.04-0900-fa9f71b`
 
-What changed: Heroes: Hero AI v2 for every hero - do not merge without lovish's OK (#416)
+What changed: Essence casters, Horde: Voodoo Shaman (Hex, Blood Totem, Spirit Puppet) (#365)
