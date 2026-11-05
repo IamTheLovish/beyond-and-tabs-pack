@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.05-1435-fcaf794`
+Current version: `2026.11.05-1532-6dc823b`
 
-What changed: Bot ladder plan: tiers are the Difficulty enum's constants, not its comments and methods (nightly failed Nov 2-5; tests first) (#537)
+What changed: Shader: plants cast a faint shadow and have a sunny and a shaded side (#518)
