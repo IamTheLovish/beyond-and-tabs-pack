@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.05-1532-6dc823b`
+Current version: `2026.11.05-1648-dc67aae`
 
-What changed: Shader: plants cast a faint shadow and have a sunny and a shaded side (#518)
+What changed: Builders are sent to ground they can stand on, not a ring cell over a drop (bot builder stall, backlog 6) (#514)
