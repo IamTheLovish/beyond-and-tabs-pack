@@ -1,8 +1,8 @@
 name = "Beyond and Tabs"
-filename = "beyondandtabs-2026.11.05-1246-313f4f7.jar"
+filename = "beyondandtabs-2026.11.05-1301-1fa069d.jar"
 side = "both"
 
 [download]
-url = "https://github.com/IamTheLovish/beyond-and-tabs-pack/releases/download/fast-files/beyondandtabs-2026.11.05-1246-313f4f7.jar"
+url = "https://github.com/IamTheLovish/beyond-and-tabs-pack/releases/download/fast-files/beyondandtabs-2026.11.05-1301-1fa069d.jar"
 hash-format = "sha512"
-hash = "7c8e96382ca76d618a32dde33efd09489ffedadf0b72296e8b821909da821aeaacdaf9de01f7ca6a0da2a2398e19c482119afa872b05fb2f178a209ecb1fd644"
+hash = "32cf991d283878f8b63a8c51953d847bd8c8ef7e1349163c39d2643a2a7cb03b53e65d8b46d6787d754ba21045c8b53f80d69397463e9e9fc04e2e7328ec281e"
