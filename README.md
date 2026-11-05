@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.04-1319-b691fba`
+Current version: `2026.11.05-0230-b1b728b`
 
-What changed: Verdant living crowns: crowns sway with the map wind, grow in as built, swell on completion (pilot: Heartwood Hall) (#502)
+What changed: Hero fallen alert: one line and chord when your hero dies (backlog 10) (#508)
