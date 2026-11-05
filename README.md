@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.05-1648-dc67aae`
+Current version: `2026.11.05-1748-1ef71cc`
 
-What changed: Builders are sent to ground they can stand on, not a ring cell over a drop (bot builder stall, backlog 6) (#514)
+What changed: Shader pack slice 4: realistic water (depth opacity, ripples, caustics, shore foam, SSR) (#438)
