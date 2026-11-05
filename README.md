@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.05-1343-1fa069d`
+Current version: `2026.11.05-1435-fcaf794`
 
-What changed: Bots: a patch under a tree sits on the ground, and a patch an ally has ordered is not given up (two bot metal-patch bugs) (#513)
+What changed: Bot ladder plan: tiers are the Difficulty enum's constants, not its comments and methods (nightly failed Nov 2-5; tests first) (#537)
