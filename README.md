@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.05-0230-b1b728b`
+Current version: `2026.11.05-0324-42afe7a`
 
-What changed: Hero fallen alert: one line and chord when your hero dies (backlog 10) (#508)
+What changed: capture_bounded_when_barrier_hangs fails on real time, not after 20000 fast game ticks (main flake) (#515)
