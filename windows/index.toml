@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyondandtabs.pw.toml"
-hash = "9125412ce758e4684e1baae163e45ac1adb53a2297ac49eb30b3be6392f0269f"
+hash = "5a134aac768b6e2dfe43dfcf8a070e6a2d49a574a8b07b251f7db5587734357e"
 metafile = true
 
 [[files]]
@@ -187,5 +187,5 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/beyondandtabs-realistic.pw.toml"
-hash = "4deed275b1c5aaf16ec548f03687b64473e10f358e6276b45f850caafdd32f66"
+hash = "ccecbf21107b602d542c49d443607753d0e3a96cc8b49f515d250288dcffb2c4"
 metafile = true
