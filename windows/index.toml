@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyondandtabs.pw.toml"
-hash = "3689ea4a1d0d6f5f48f23bb6954f9c3921716b644c20f73f5f670ab917cc7dd6"
+hash = "d4ae0ebaed810c36df781417a8befe007bac24d24c8836643c226156cfab3bbc"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/beyondandtabs-realistic.pw.toml"
-hash = "f5ca0e554a983669b19de8d00f367702c55c6578820253e41af80afad8dc52a9"
+hash = "9937e93380c1c79ff48c8a10642a82994036dd53f2154ab3c63bb429c0c7a4f5"
 metafile = true
 
 [[files]]
@@ -391,11 +391,11 @@ hash = "111bc02093638e8c0f9c3bfe5b5afe20560c12a492b643a1ce9d7350b04a5556"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/lib/settings.glsl"
-hash = "cfd069a8922c96b05f3b343e938bcbc21596a939f6965753244295865bf0af0d"
+hash = "4385b41d1a1dacb6a93c1bb23981d38ee6cb16ec06614246d0b262646a8e47bd"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/lib/shadow.glsl"
-hash = "dcbddcc6412c4eeed8e0ef4b6099f1a09c8a31c56cd5146e906d4f8591dffc22"
+hash = "5f411d9188acc13794bb43261e4534697f1a2b3bd4d3d1543ce864afec165d1d"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/lib/shadowfit.glsl"
@@ -415,7 +415,7 @@ hash = "54e3d632b53c1d0f4587dee699adeaaa19a71ec054fc05517722e2b47dae5bcb"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/program/lit.fsh"
-hash = "2432d73053a3ebc710362bdc3a194cea30d94af6958f63857ede4a4f1cf3956f"
+hash = "ecba0166adc465ab86eecb2d5f9c12993ae3b0b3d6170e3c0661032435ec7387"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/program/lit.vsh"
@@ -443,8 +443,8 @@ hash = "e214108bc0d820634b59b03a7ddbfc2681ef39ec8d654b8845b7d1525b51624c"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/shadow.fsh"
-hash = "a03c69f73a0127566d92f6a3196f1f1c9999d1c706dd204a347d4b2941d7bd7f"
+hash = "baeba7d40a8272727ae9a3fd2d02b2b32802b6a021d096d5bff3fd4b044b49dd"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/shadow.vsh"
-hash = "5420ac0f3232fd5a356e0e468cef1783748033eee0f90f57bb69541ae0747323"
+hash = "af57e01a29e16e31354407cb95127b1f58467879f5cdb78684cb793793c3a9c8"
