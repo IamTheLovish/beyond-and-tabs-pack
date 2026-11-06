@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.05-1748-1ef71cc`
+Current version: `2026.11.06-1023-4128c05`
 
-What changed: Shader pack slice 4: realistic water (depth opacity, ripples, caustics, shore foam, SSR) (#438)
+What changed: Barracks: a dark oak spire over a gold crown band, dark wing roofs, L3 keeps its roofs (the blind sweep's weakest building; tests first) (#564)

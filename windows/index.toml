@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iris.properties"
+hash = "eaec947eb0ca5318d2a862807e0c605b70609c8e0f8782edd3f614b143371894"
+preserve = true
+
+[[files]]
+file = "config/oculus.properties"
+hash = "eaec947eb0ca5318d2a862807e0c605b70609c8e0f8782edd3f614b143371894"
+preserve = true
+
+[[files]]
 file = "mods/alexsmobs-1-22-9.pw.toml"
 hash = "d377877cc1ece8bc24fb485ca42d38e6768954e29505bb503795d24d2bff1c47"
 metafile = true
@@ -17,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyondandtabs.pw.toml"
-hash = "83f5a8202250db05140182748c250e05c92bad6e1029bcf976d299adb072c61b"
+hash = "bdbe51995e53583fd9efc3391aa8f502b1a44cd2efbf60848396158c18b2c7e5"
 metafile = true
 
 [[files]]
@@ -146,6 +156,11 @@ hash = "0d03c3d31f4e349c24f245810c5373921ae5b2a3802c17fb24df16aae8f19cd7"
 metafile = true
 
 [[files]]
+file = "mods/oculus-mc1-20-1-1-8-0.pw.toml"
+hash = "aa01e640ab4debd51bcc71404f1b1258552f7693a59b1a514ce07be7e67847bc"
+metafile = true
+
+[[files]]
 file = "mods/packetfixer-3-3-2-1-18-1-20-4-merged.pw.toml"
 hash = "53c0d0f4922fa2bee0c40dfd4e2be2659028a617e7b6504559dd0786762190eb"
 metafile = true
@@ -187,5 +202,249 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/beyondandtabs-realistic.pw.toml"
-hash = "58639a8683d3b0a42064e4d63a2e9c545f95f71228b7d230a15d99aba5b0ec2f"
+hash = "6a78597d734e77b8a47868f7605b82ef892b0df8a442d3ee2346bdde1be2f852"
 metafile = true
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/LICENSE"
+hash = "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/README.md"
+hash = "fa6ff955d71f1e85262b6538e5164c4ed7da9ecbd87da29671f14e1e6380301f"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/block.properties"
+hash = "5c7e249da518078ec8fe713172fc999bd591f45188d6effbaacf2ee5c6c8ce5b"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/composite.fsh"
+hash = "292625022d056bf47dd5d82d3b1f453332822ae01951ae0443d2d544673bd749"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/composite.vsh"
+hash = "30ed2aaf4e7b80e1b962a1f58d945a041e7bc14b72574861375c75aac33de4c6"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/deferred.fsh"
+hash = "7506e8e77e57352af8dea28119cc02a1fae341926c72511b691027921307e2f0"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/deferred.vsh"
+hash = "30ed2aaf4e7b80e1b962a1f58d945a041e7bc14b72574861375c75aac33de4c6"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/deferred1.fsh"
+hash = "178838e81d2bcb419c90dd726d8e7779bf29d6861ea359128fac3836322b835e"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/deferred1.vsh"
+hash = "30ed2aaf4e7b80e1b962a1f58d945a041e7bc14b72574861375c75aac33de4c6"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/final.fsh"
+hash = "af2957c863aa4ebebcf4dfce339451796f020099d3b5ea4352c777c5cee72a38"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/final.vsh"
+hash = "30ed2aaf4e7b80e1b962a1f58d945a041e7bc14b72574861375c75aac33de4c6"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_basic.fsh"
+hash = "52446939842d4f8171c736c9a0c41ce5fbe26cb9bf2bc6d92775cf3abca6074a"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_basic.vsh"
+hash = "53c834faaa1caab25f463724b72f22fb0e09828ce278f363083f926e7b649e93"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_beaconbeam.fsh"
+hash = "4a1caf023c148c3f397668ab0406329eed24fc73bcd4c2c8a8bb96a241b4ccbf"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_beaconbeam.vsh"
+hash = "6bb92621f9ab0df02a93d0bd5fe30709ebacc38b07f1df413ac5882f2c65a05d"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_block.fsh"
+hash = "d6795d93353d2f34979c02ac356fb7cf34e335c1833ff85ccedb1067f0758e97"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_block.vsh"
+hash = "d3550b020627d54e70eb26bc3ca5ec21a7b15d8f2d8ae45f4c22a2c444b5dd5f"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_damagedblock.fsh"
+hash = "da3174dc8c444cc23ab3d3a81a110b024396bdb7dde2a08c6d508cc852f4c70d"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_damagedblock.vsh"
+hash = "4c7e0f49b30226a8bb5fb4f59023ecbfeef3f334f4cffe279ad8e23895a04296"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_entities.fsh"
+hash = "d6795d93353d2f34979c02ac356fb7cf34e335c1833ff85ccedb1067f0758e97"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_entities.vsh"
+hash = "d3550b020627d54e70eb26bc3ca5ec21a7b15d8f2d8ae45f4c22a2c444b5dd5f"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_hand.fsh"
+hash = "da71fe377ffcd59e300d603ed31d392390cd96834814fefee3442526b90a3004"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_hand.vsh"
+hash = "78bd0c21d963a4dcacee6ca418a0651837248b1926277d05c7548229e5e64761"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_skybasic.fsh"
+hash = "35100aca9618e4403cdbfe35a545d21c06d3223a01a16f430f38ffe987294c9c"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_skybasic.vsh"
+hash = "11843201d82c7cc84b8a18e1669e00e279c15b732e88de5bb1ed1fc6c7cb460f"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_skytextured.fsh"
+hash = "e435159052465e55e420b4f8d18b0300e1362436dc16f2b21b3641f3eaac3eac"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_skytextured.vsh"
+hash = "e208f83c163eb6eb67634a8f5d74cd64a73c0204af1a3e5ef521d60b496c3425"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_spidereyes.fsh"
+hash = "4a1caf023c148c3f397668ab0406329eed24fc73bcd4c2c8a8bb96a241b4ccbf"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_spidereyes.vsh"
+hash = "6bb92621f9ab0df02a93d0bd5fe30709ebacc38b07f1df413ac5882f2c65a05d"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_terrain.fsh"
+hash = "3ddea2063d776e7dc7a4eabb046f0f985a481428b2559a71cc0952c4efe8c352"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_terrain.vsh"
+hash = "2f0bf119d557a7c6865ba88d1c2e51dd8b77deaba3c4fa7319141ac14ced6c58"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_textured.fsh"
+hash = "9e3ae8abcb11287b75280e9759c1fa50d380a95ec3350d83e7b00198409816de"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_textured.vsh"
+hash = "1a36dc470a0d0a02f06d6f91dc255b1cba440bcc9c8a7ae4717f5dd38feac83b"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_textured_lit.fsh"
+hash = "46db8f87376e67197295216c68ee41cd7cc223d272d5eb9375b1c8dc248f5a8c"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_textured_lit.vsh"
+hash = "6bc730bbc0fd11309402ddd26ec145989d3debfe0f7a07f9885daa399a32b601"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_water.fsh"
+hash = "36e12cd13cfadafc90af277eae5f03aae46acca26885e9a62685954fd3b3e7db"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_water.vsh"
+hash = "2ba3f25994caa111bdd0d5ba290d0e85922551bb16ec9414332c9fdc718a452f"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_weather.fsh"
+hash = "46db8f87376e67197295216c68ee41cd7cc223d272d5eb9375b1c8dc248f5a8c"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/gbuffers_weather.vsh"
+hash = "6bc730bbc0fd11309402ddd26ec145989d3debfe0f7a07f9885daa399a32b601"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lang/en_us.lang"
+hash = "053666c1275a2e341c40564260f8f8817efc9263e70d530e39eb21ae7548317f"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/ao.glsl"
+hash = "b9e2b4476a06dacccdb87817d6ba41ba8711aa325519b454a24d5e3b1c131a92"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/clouds.glsl"
+hash = "818c6edc70a3f8311deae5a569c40fa1ca7cc9d919846dba72fe4fe6fbc4d3bf"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/color.glsl"
+hash = "df1fa43324155b1c00cfc887efd94c9abacee99396a0cda5e33db79c67121191"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/light.glsl"
+hash = "f684cfe97c84f4bc98b4d49bc5284e7ef08d1480cedcd38a5f20eba5a27af213"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/pbr.glsl"
+hash = "d1dddf8aa3adf773667a8f11c9c0c3c467f7ad3031f6e4c5de956e9341dd077e"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/pbrswitch.glsl"
+hash = "111bc02093638e8c0f9c3bfe5b5afe20560c12a492b643a1ce9d7350b04a5556"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/settings.glsl"
+hash = "cfd069a8922c96b05f3b343e938bcbc21596a939f6965753244295865bf0af0d"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/shadow.glsl"
+hash = "dcbddcc6412c4eeed8e0ef4b6099f1a09c8a31c56cd5146e906d4f8591dffc22"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/shadowfit.glsl"
+hash = "a471bbff38ef8bb1b273574063fae94d183fd4496451772fb5409b3f0ac25945"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/water.glsl"
+hash = "504cf1b4e8230a3c5dda95f0f1ebc96366e8a540ed3a8407d33dffe30b9c9281"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/wind.glsl"
+hash = "d6f4e95e81c37a5b67cf1d360cc1c20071516f2df695d54f4d8e236147949b9a"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/lib/world.glsl"
+hash = "54e3d632b53c1d0f4587dee699adeaaa19a71ec054fc05517722e2b47dae5bcb"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/program/lit.fsh"
+hash = "2432d73053a3ebc710362bdc3a194cea30d94af6958f63857ede4a4f1cf3956f"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/program/lit.vsh"
+hash = "d4a2372bf45b431fbd8481f6a0b55d3f871c01a3a78727af3978cc778d9d4756"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/program/sky.fsh"
+hash = "d50f42b3d41d6e966afbee8e7fa3b3bc42a1783e4366fbed2b9cf1bbace23f86"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/program/sky.vsh"
+hash = "3c186e520145d5de67323de00b1cc0819d65a3d668997d4a0f59fc48daf424b7"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/program/unlit.fsh"
+hash = "399481ac1ad7e47b0d1ecf61d77468cea41b7ecee1ddb40a2217b8309636d503"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/program/unlit.vsh"
+hash = "de5f6384bdccb56d01eb97fcbee2d31fcce43299d9f1a03c38b0f33340bc1092"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/shaders.properties"
+hash = "e214108bc0d820634b59b03a7ddbfc2681ef39ec8d654b8845b7d1525b51624c"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/shadow.fsh"
+hash = "a03c69f73a0127566d92f6a3196f1f1c9999d1c706dd204a347d4b2941d7bd7f"
+
+[[files]]
+file = "shaderpacks/BeyondAndTabs/shaders/shadow.vsh"
+hash = "5420ac0f3232fd5a356e0e468cef1783748033eee0f90f57bb69541ae0747323"
