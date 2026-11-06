@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.06-2124-d3dca91`
+Current version: `2026.11.06-2257-8d32461`
 
-What changed: Shader: plant shadows fade with a low sun, and plants take no plant's shadow (do not merge without lovish's OK) (#544)
+What changed: Bone Dragon strafe: from the air the fire starts on the target and runs past it (tests first) (#571)
