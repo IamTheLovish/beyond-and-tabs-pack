@@ -3,6 +3,6 @@ filename = "BeyondAndTabs-Realistic.zip"
 side = "client"
 
 [download]
-url = "https://github.com/IamTheLovish/beyond-and-tabs-pack/releases/download/fast-files/BeyondAndTabs-Realistic-2026.11.07-0947-5c4fbbc.zip"
+url = "https://github.com/IamTheLovish/beyond-and-tabs-pack/releases/download/fast-files/BeyondAndTabs-Realistic-2026.11.07-1006-10204a0.zip"
 hash-format = "sha512"
-hash = "8efac353685fbc293c746350ecac57924a16e8cefe30f55edae5c0bf366ff5f1f74b6e2ed34dabea40c13590ec03dd96b14ad23f24fe4754fc445d14bf3fc003"
+hash = "fd7fccee176945913c6ea8e1c92feb1b5637d8829d5b03d86b2324b2987ae2fe0e9aa8f2e01e2318236812fb1a8d9546841965545642ff7c4321b3d563e88cd6"
