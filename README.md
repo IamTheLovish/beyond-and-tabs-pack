@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.07-0937-6f198d5`
+Current version: `2026.11.07-1029-5c4fbbc`
 
-What changed: Assembly Works redrawn: a sawtooth hall under one tall chimney, sheds grown onto it (blind 6 vs 4) - do not merge without lovish's OK (#575)
+What changed: RocketShell tests: wait up to 150 ticks for the units to tick (30 was too short on a loaded shard) (#553)
