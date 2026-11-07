@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.07-0036-c56907a`
+Current version: `2026.11.07-0853-81f2c5c`
 
-What changed: Light Grid Builder Drone: the AI faction's hover worker (team light lines, hover rig, derez crash) - do not merge without lovish's OK (#558)
+What changed: Hero AI v2 tests count from the hero's own ticks (shard-8 flakes: order lost before the arena's entities load) (#556)
