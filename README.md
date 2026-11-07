@@ -12,6 +12,6 @@ A real-time strategy mod for Minecraft Java 1.20.1 (Forge), in testing with frie
 ## Updates
 Nothing to do: every launch checks for a new version and installs it before the game starts.
 
-Current version: `2026.11.07-0853-81f2c5c`
+Current version: `2026.11.07-0937-6f198d5`
 
-What changed: Hero AI v2 tests count from the hero's own ticks (shard-8 flakes: order lost before the arena's entities load) (#556)
+What changed: Assembly Works redrawn: a sawtooth hall under one tall chimney, sheds grown onto it (blind 6 vs 4) - do not merge without lovish's OK (#575)
