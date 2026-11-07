@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyondandtabs.pw.toml"
-hash = "e8c8c16161e1c7275ee3576637def683ccd1137a2f1e7421f2b27eb7eee1a494"
+hash = "6499ea89843e80900f9b0edebc491c608d6bd47ef6d7d3aba1e2eabfbe5d61dc"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/beyondandtabs-realistic.pw.toml"
-hash = "6e4a52d0dfde1442f2dadfe02f5b36c702ee338382c43fff937f14fa28d450b3"
+hash = "b9c2973f64324e662f9ea4ce3001b0fd390798b89861042d53ded382c8621575"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ hash = "6bc730bbc0fd11309402ddd26ec145989d3debfe0f7a07f9885daa399a32b601"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/lang/en_us.lang"
-hash = "053666c1275a2e341c40564260f8f8817efc9263e70d530e39eb21ae7548317f"
+hash = "54cb45886194b30f962a82783f0e5951489a051c650a6ebc3405fc33f5633a0e"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/lib/ao.glsl"
@@ -391,7 +391,7 @@ hash = "111bc02093638e8c0f9c3bfe5b5afe20560c12a492b643a1ce9d7350b04a5556"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/lib/settings.glsl"
-hash = "4385b41d1a1dacb6a93c1bb23981d38ee6cb16ec06614246d0b262646a8e47bd"
+hash = "4c12196a619b553d871a49fc184d1edf080af94b20cb2753afb0a4a9333befc4"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/lib/shadow.glsl"
@@ -415,11 +415,11 @@ hash = "54e3d632b53c1d0f4587dee699adeaaa19a71ec054fc05517722e2b47dae5bcb"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/program/lit.fsh"
-hash = "ecba0166adc465ab86eecb2d5f9c12993ae3b0b3d6170e3c0661032435ec7387"
+hash = "e244d2890ad805e644f5613a5db418b3fce702f955cdf05ebc2332d71150ec7a"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/program/lit.vsh"
-hash = "d4a2372bf45b431fbd8481f6a0b55d3f871c01a3a78727af3978cc778d9d4756"
+hash = "6cc976e5ccb747d14e76597477285dec9a7caf9be75bd489f784ce955179d0d0"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/program/sky.fsh"
@@ -439,7 +439,7 @@ hash = "de5f6384bdccb56d01eb97fcbee2d31fcce43299d9f1a03c38b0f33340bc1092"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/shaders.properties"
-hash = "e214108bc0d820634b59b03a7ddbfc2681ef39ec8d654b8845b7d1525b51624c"
+hash = "1fee82a9be890801170ce6e238cb3c7b02130539d41f645b2b70d4046514d5db"
 
 [[files]]
 file = "shaderpacks/BeyondAndTabs/shaders/shadow.fsh"
